@@ -1,0 +1,6 @@
+{
+  "api_port": 8000,
+  "audio_processor_url": "http://localhost:8080/process",
+  "model_path": "model/mood_model.h5",
+  "art_output_dir": "art_output"
+}
