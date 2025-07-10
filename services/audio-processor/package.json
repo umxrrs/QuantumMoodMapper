@@ -1,0 +1,13 @@
+{
+  "name": "audio-processor",
+  "version": "1.0.0",
+  "description": "Node.js microservice for audio feature extraction",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "meyda": "^5.2.0"
+  }
+}
